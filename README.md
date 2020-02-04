@@ -1,4 +1,4 @@
 # hello-world
 tutorial repository
 
-my name is jeroen
+My name is Jeroen!
